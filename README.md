@@ -1,66 +1,80 @@
-### I. Welcome Page
-    1. Welcome to site
-    2. Information regarding mission and purpose
-    3. Ability to create account / sign in as a student user
-        * Create Account
-            * Student Name
-            * Student Username
-            * Student Password
-            * Student Organization (Dropdown menu of options)
-    4. Ability to create account / sign in as an administrator (admin)
-        * Create Admin Account
-            * Admin Name
-            * Admin Username
-            * Admin Password
-            * Organization Name
-            * Total Service Requirements
-            * Optional Sub Requirements
-                ** Example: Number of Hours for each year: Freshman, Sophomore, Junior, Senior
-            * Optional Service Categories
+# Service Application
+## Final Project Proposal
+
+### Welcome Page
     
-### II. Admin User Experience
-    A. Organization Admin Welcome Page
-        1. Dashboard of Progress
-        2. List of Students Within Organization
-        3. List of Submitted Service Events Seeking Approval 
-        4. Ability to update admin user password
-        5. Ability to give a user admin status?
-        6. Ability to update organization service requirements
-            a. Update organization name
-            b. Update Requirements
-            c. Update Sub Requirements
-            d. Update service categories
-        7. Ability to delete organization
-    B. Admin View of Individual Students
-        1. When a student listed on welcome page is clicked
-            a. Ability to remove student from organization
-            b. Ability to view list of service events for particular individual student
-    C. Admin View of Service Events
-        1. When a service event on welcome page is clicked
-            a. View Event Information
-            b. Ability to change status of event to “Needs Attention” or “Approved”
-            c. Ability to leave comments
-            
-### III. Student User Experience
-    A. Student User Welcome Page
-        1. Dashboard of Progress
-            a. Overall Requirement Progress
-            b. Sub Requirement Progress (if defined by admin)
-            c. Ability to update password/organization
-            d. Ability to delete account
-        2. List of Service Events
-            a. Organized with most recent on top
-            b. Information Regarding Service Event
-                * Location
-                * Date
-                * Number of Hours
-                * Status: Submitted, Needs Attention, Approved
-                * Description
-                * Service Supervisor Name
-                * Category of Service (if defined by admin)
-                * Comments
-        3. Ability to Create a New Service Event
-    B. Service Event View
-        1. When a Service Event Listed on Welcome Page is Clicked
-            a. Ability to update event
-            b. Ability to delete event
+1. **Welcome to website**
+2. **Information regarding mission and purpose**
+3. **Ability to Create Account / Sign In as an organization administrator (admin)**
+    1. Create Account
+        - Admin Name
+        - Admin Username
+        - Admin Password
+        - Organization Name
+        - Total Service Requirements
+        - Optional Sub Requirements
+            -- Number of Hours for each year
+        - Optional Service Categories
+    2. Sign In
+        - Username
+        - Password
+4. **Ability to Create Account / Sign In as a student user**
+    1. Create Account
+        - Student Name
+        - Student Username
+        - Student Password
+        - Student Organization (Select from Dropdown Menu)
+    2. Sign In
+        - Username
+        - Password
+
+### Admin User Experience
+
+1. **Organization Admin Home Page**
+    1. Dashboard of Progress
+    2. List of Students within Organization
+    3. List of Submitted Service Event Seeking Approval
+    4. Ability to update admin user password
+    5. Ability to give a user admin status??
+    6. Ability to update organization service requirements
+        * Update organization name
+        * Update requirements
+        * Update sub requirements
+        * Update service categories
+    7. Ability to delete organization
+
+2. **Admin View of Individual Students**
+    - When a student listed on home page is clicked
+        * Ability to remove student from organization
+        * Ability to view list of service events for student
+3. **Admin View of Service Events**
+    - When a service event on home page is clicked
+        * View Event Information
+        * Ability to change status of event to "Needs Attention" or "Approved"
+        * ability to leave comments
+
+### Student User Experience
+
+1. **Student User Home Page**
+    1. Dashboard of Progress
+        * Overall Requirement Progress
+        * Optional Sub Reqirement Progress
+        * Ability to update password/organization
+        * Ability to delete account
+    2. List of Service Events
+        * Organized with most recent on top
+        * Information regarding service event
+            - Location
+            - Date
+            - Number of Hours
+            - Status: Submitted, Needs Attention, Approved
+            - Description of Event
+            - Service Supervisor Name
+            - Category (if defined)
+            - Comments
+    3. Ability to create a new service event
+
+2. **Service Event View**
+    - When a service event list on home page is clicked
+        * Ability to update event
+        * Ability to delete event
