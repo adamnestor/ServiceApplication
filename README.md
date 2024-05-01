@@ -1,10 +1,10 @@
-I. Welcome Page
+### I. Welcome Page
     1. Welcome to site
     2. Information regarding mission and purpose
     3. Ability to create account / sign in as a student user
     4. Ability to create account / sign in as an administrator (admin)
     
-II. Admin User Experience
+### II. Admin User Experience
     A. Organization Admin Welcome Page
         1. Dashboard of Progress
         2. List of Students Within Organization
@@ -27,7 +27,7 @@ II. Admin User Experience
             b. Ability to change status of event to “Needs Attention” or “Approved”
             c. Ability to leave comments
             
-III. Student User Experience
+### III. Student User Experience
     A. Student User Welcome Page
         1. Dashboard of Progress
             a. Overall Requirement Progress
