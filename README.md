@@ -2,7 +2,21 @@
     1. Welcome to site
     2. Information regarding mission and purpose
     3. Ability to create account / sign in as a student user
+        * Create Account
+            * Student Name
+            * Student Username
+            * Student Password
+            * Student Organization (Dropdown menu of options)
     4. Ability to create account / sign in as an administrator (admin)
+        * Create Admin Account
+            * Admin Name
+            * Admin Username
+            * Admin Password
+            * Organization Name
+            * Total Service Requirements
+            * Optional Sub Requirements
+                ** Example: Number of Hours for each year: Freshman, Sophomore, Junior, Senior **
+            * Optional Service Categories
     
 ### II. Admin User Experience
     A. Organization Admin Welcome Page
