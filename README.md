@@ -15,7 +15,7 @@
             * Organization Name
             * Total Service Requirements
             * Optional Sub Requirements
-                ** Example: Number of Hours for each year: Freshman, Sophomore, Junior, Senior **
+                ** Example: Number of Hours for each year: Freshman, Sophomore, Junior, Senior
             * Optional Service Categories
     
 ### II. Admin User Experience
@@ -63,4 +63,4 @@
     B. Service Event View
         1. When a Service Event Listed on Welcome Page is Clicked
             a. Ability to update event
-            17. Ability to delete event
+            b. Ability to delete event
