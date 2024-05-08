@@ -1,6 +1,10 @@
 # Service Application
 ## Final Project Proposal
 
+### Application Summary
+
+This service application aims to streamline the tracking and organization of service hours for both a school that requires service hours for graduation and the students within that school. Users can easily create accounts as school administrators or students. School admins gain access to a comprehensive dashboard where they can monitor student progress, manage service requirements, and oversee student profiles with options to update information and approve incoming service events. Students, on the other hand, enjoy a personalized dashboard showcasing their progress, including detailed service event listing with options to update, delete, or create new events. Our application fosters efficient communication and organization or service hours, empowering both administrators and students to fulfill their service requirements effectively. 
+
 ### Welcome Page
     
 1. **Welcome to website**
